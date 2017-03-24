@@ -9,7 +9,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "evernote": "^2.0.1-beta"
+    "evernote": "^2.0.1-beta",
+    "highlight.js": "9.10.0",
+    "hljs": "6.2.3",
+    "lodash": "4.17.4",
+    "markdown-it": "8.3.1",
+    "to-markdown": "3.0.4"
   },
   "devDependencies": {
     "typescript": "^2.0.3",
